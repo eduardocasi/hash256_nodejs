@@ -1,4 +1,4 @@
-/* Simple sha256 code */
+/* Simple sha256 hash code */
 var crypto = require('crypto');
 
 var hash = crypto.createHash('sha256');
